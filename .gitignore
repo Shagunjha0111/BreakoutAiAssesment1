@@ -1,0 +1,17 @@
+# Ignore environment files
+.env
+*.json
+api.txt
+# Ignore virtual environment folder
+venv/
+
+# Ignore Python cache files
+*.pyc
+*.pyo
+__pycache__/
+
+# Ignore other IDE files
+.idea/
+.vscode/"api.txt" 
+"api.txt" 
+"api.txt" 
